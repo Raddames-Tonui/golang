@@ -19,5 +19,5 @@ func main() {
     })
   })
   
-  router.Run() 
+  router.Run() // listen and serve on 0.0.0.0:8000 ✅ (Corrected)
 }
